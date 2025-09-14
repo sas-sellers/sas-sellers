@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sas-sellers
-- 👀 I’m interested in cybersecurity.
+- 👀 I’m interested in cybersecurity and hockey.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sellers.sop@northeastern.edu
