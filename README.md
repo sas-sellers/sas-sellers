@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sas-sellers
-- 👀 I’m interested in cybersecurity and hockey.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in cybersecurity.
+- 🌱 I’m currently learning C and Assembly!
+- 💞️ I’m looking to collaborate on projects at the intersection of AI and cybersecurity.
 - 📫 How to reach me sellers.sop@northeastern.edu
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I know how to juggle.
